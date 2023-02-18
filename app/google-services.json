@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433180042433",
+    "project_id": "otpview-57fcf",
+    "storage_bucket": "otpview-57fcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433180042433:android:1f543b92d99cfd2f5f6040",
+        "android_client_info": {
+          "package_name": "com.example.otpview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433180042433-rieju9kiqls343692jkobjecn7ukkkjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkliwIAzFS-mANhig7_pSjt0Rd5rvzxek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433180042433-rieju9kiqls343692jkobjecn7ukkkjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

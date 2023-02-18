@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OTPVIEW</string>
+    <string name="get_otp">get_otp</string>
+    <string name="_9999999999">9999999999</string>
+
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="get_otp1">GET OTP</string>
+    <string name="todo">TODO</string>
+    <string name="plase_enter_the_otp_sent_by_you">Plase enter the OTP sent by you</string>
+    <string name="didn_t_recive_the_otp">didn\'t recive the otp</string>
+    <string name="resend_otp_again">RESEND OTP AGAIN</string>
+    <string name="submit">submit</string>
+    <string name="todo1">TODO</string>
+    <string name="we_will_send_you_an_one_time_on_this_given_mobile_number">We will send you an one time on this given mobile number</string>
+    <string name="_91">+91</string>
+    <string name="otp_verification">OTP VERIFICATION</string>
+    <string name="otp_verification1">OTP VERIFICATION</string>
+</resources>
